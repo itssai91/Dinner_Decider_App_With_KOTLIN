@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">Dinner Decider</string>
+    <string name="decide">Decide</string>
+    <string name="logo">logo</string>
+    <string name="chinease">Chinease</string>
+    <string name="add_your_food">Add Your Food</string>
+    <string name="add_items">Add Items</string>
 </resources>
